@@ -1,0 +1,42 @@
+{
+  "Requests" : {
+    "1552403278520" : {
+      "address" : "",
+      "name" : "Tom Cruise",
+      "partial" : true,
+      "phone" : "0988123344",
+      "status" : "3",
+      "total" : "$0.00"
+    }
+  },
+  "User" : {
+    "000000000" : {
+      "name" : "Tom Cruise",
+      "password" : "12345"
+    },
+    "0988123389" : {
+      "name" : "Tom Cruise",
+      "password" : "1234"
+    },
+    "0988125632" : {
+      "name" : "Tom Cruisex",
+      "password" : "123456"
+    },
+    "0988455965" : {
+      "name" : " Cruise",
+      "password" : "123456"
+    }
+  },
+
+  "category": {
+    "1": {
+      "Name": "FRIES",
+      "IMAGE": "https://www.cookingclassy.com/wp-content/uploads/2019/01/french-fries-6.jpg"
+    },
+    "2": {
+      "Name": "BURGER",
+      "IMAGE": "https://en.wikipedia.org/wiki/Hamburger#/media/File:RedDot_Burger.jpg"
+    }
+  }
+}
+
